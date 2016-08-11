@@ -29,4 +29,4 @@ produces this output:
     Valid reconstructed mnemonic: agree regret stay pride feel whip
     ...
 
-The number of valid seeds with vary depending on the length of the mnemonic an the specific word omitted.
+The number of valid seeds will vary depending on the length of the mnemonic and the specific word omitted.
